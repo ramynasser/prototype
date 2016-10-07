@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9D0C918C-5B2B-25B4-F676-2780B5AE58A9}") = "EdarasArt", "Assembly-CSharp.csproj", "{5B80BE1E-18D7-DE86-AE30-4E1E7280A798}"
+EndProject
+Project("{9D0C918C-5B2B-25B4-F676-2780B5AE58A9}") = "EdarasArt", "Assembly-CSharp-Editor.csproj", "{92FC6EBC-0953-1413-DF1E-8FAA0CA47993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B80BE1E-18D7-DE86-AE30-4E1E7280A798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B80BE1E-18D7-DE86-AE30-4E1E7280A798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B80BE1E-18D7-DE86-AE30-4E1E7280A798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B80BE1E-18D7-DE86-AE30-4E1E7280A798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FC6EBC-0953-1413-DF1E-8FAA0CA47993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FC6EBC-0953-1413-DF1E-8FAA0CA47993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FC6EBC-0953-1413-DF1E-8FAA0CA47993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FC6EBC-0953-1413-DF1E-8FAA0CA47993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
